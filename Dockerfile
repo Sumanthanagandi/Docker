@@ -1,5 +1,0 @@
-FROM ubuntu
-
-WORKDIR /home
-
-VOLUME ["myvolume"]
